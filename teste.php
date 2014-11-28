@@ -1,1 +1,1 @@
-<?php teste php  ?>
+<?php teste php!  ?>
